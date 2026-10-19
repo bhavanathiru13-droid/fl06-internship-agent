@@ -1,0 +1,20 @@
+
+FL-07: Build the Agent
+
+Objective:
+Build a working Internship Assignment Assistant.
+
+Required deliverables:
+1. Read assignment information from a local file.
+2. Display the assignment details.
+3. Identify the next action for the user.
+4. Handle a missing assignment file safely.
+5. Test the agent and record the results.
+
+Current status:
+- Python agent file created.
+- Assignment data file being prepared.
+- Testing not yet completed.
+
+Deadline:
+Check the official FL-07 instructions for the actual deadline.
